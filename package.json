@@ -1,0 +1,33 @@
+{
+  "name": "covid19-doc-verify-nodejs",
+  "version": "1.0.0",
+  "description": "Covid Certificate Document Verification api and web ui using Nodejs, Mongodb, Javascript, Google docs api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleophasmashiri/covid19-doc-verify-nodejs.git"
+  },
+  "keywords": [
+    "Covid",
+    "Certificate",
+    "Document",
+    "Verification",
+    "api",
+    "using",
+    "Nodejs",
+    "Mongodb",
+    "Javascript",
+    "Google",
+    "docs",
+    "api."
+  ],
+  "author": "Cleophas Mashiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleophasmashiri/covid19-doc-verify-nodejs/issues"
+  },
+  "homepage": "https://github.com/cleophasmashiri/covid19-doc-verify-nodejs#readme"
+}
